@@ -6,7 +6,7 @@
 
 gamarr is an automated PC game acquisition daemon written in Python. It scrapes
 Metacritic for critically-acclaimed new releases, filters out unwanted genres
-and keywords, matches titles against FitGirl repacks and FreeGOGPCGames, and
+and keywords, matches titles against FitGirl repacks and FreeGOG, and
 delivers torrents to qBittorrent. Once downloads complete, a post-processing
 thread SHA-256-verifies and copies each game to your library with customizable
 path templates, then cleans up source torrents.

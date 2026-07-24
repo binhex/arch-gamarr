@@ -1,4 +1,4 @@
-movarr#!/usr/bin/dumb-init /bin/bash
+#!/usr/bin/dumb-init /bin/bash
 
 # set install location for gamarr
 install_path="/opt/gamarr"
