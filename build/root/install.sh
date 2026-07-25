@@ -40,7 +40,7 @@ refresh.sh
 ####
 
 # define pacman packages
-pacman_packages="git python python-pip python-uv xorg-server-xvfb ncurses"
+pacman_packages="git python python-pip python-uv xorg-server-xvfb ncurses tk"
 
 # install compiled packages using pacman
 if [[ -n "${pacman_packages}" ]]; then
